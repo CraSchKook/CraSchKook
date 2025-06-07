@@ -4,23 +4,17 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CraSchKook&layout=compact&theme=tokyonight" alt="Top Langs"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/CraSchKook/DnD_APP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CraSchKook&repo=DnD_APP&theme=tokyonight" alt="DnD_APP repo"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CraSchKook&layout=compact&theme=tokyonight" alt="Top Langs" />
+  </a>
+  <a href="https://github.com/CraSchKook/DnD_APP" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CraSchKook&repo=DnD_APP&theme=tokyonight" alt="DnD_APP repo" />
+  </a>
+</div>
 
-<p align="center">
-  <a href="https://t.me/craschkook" target="_blank" rel="noopener noreferrer">
+<p align="center" style="margin-top: 20px;">
+  <a href="https://t.me/craschkook" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=CraSchKook&color=blue&style=flat" alt="Profile Views" />
