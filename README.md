@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=CraSchKook&color=blue)
+  ![Profile Views](https://komarev.com/ghpvc/?username=CraSchKook&color=blue&style=flat-square)
 </p>
