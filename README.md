@@ -6,10 +6,20 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CraSchKook&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <a href="https://t.me/craschkook" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=CraSchKook&color=blue&style=flat)
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://t.me/craschkook" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=CraSchKook&color=blue&style=flat" alt="Profile Views" />
+    </td>
+    <td>
+      <a href="https://github.com/CraSchKook/DnD_APP">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CraSchKook&repo=DnD_APP&theme=tokyonight" alt="DnD_APP repo"/>
+      </a>
+    </td>
+  </tr>
+</table>
