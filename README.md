@@ -6,12 +6,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CraSchKook&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <a href="https://t.me/craschkook" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+<p align="center">
+  <a href="https://t.me/craschkook" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=CraSchKook&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CraSchKook&color=blue&style=flat)
-
