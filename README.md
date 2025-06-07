@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=CraSchKook&color=blue&style=flat-square)
+  ![Profile Views](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CraSchKook)
 </p>
